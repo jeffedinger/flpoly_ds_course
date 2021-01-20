@@ -2,7 +2,7 @@
 
 ### SP 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA senior at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
 - Course 1
 
