@@ -4,20 +4,22 @@
 
 DSBA senior at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Reverse Logistics
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- International and Comparative dimensions of Business
 
-- Course 4
+- Health Systems Modeling and optimization
+
+- Data Analytics Capstone II
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Working Out
 
-- Thing 2
+- Gaming
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Writing novels <https://www.floridapoly.edu>
